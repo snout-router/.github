@@ -1,4 +1,4 @@
-# Contributing to Packula
+# Contributing to Snout
 
 Contributions are encouraged and appreciated. Please take a moment to read these
 guidelines before submitting issues or pull requests.
@@ -105,7 +105,7 @@ keyword if you believe an issue to be completely addressed by this PR.
 
 ## Resources
 
-- [Packula community health files]
+- [Snout community health files]
 - [How to Contribute to Open Source]
 - [About pull requests]
 
@@ -115,4 +115,4 @@ keyword if you believe an issue to be completely addressed by this PR.
 [good commit messages]: https://chris.beams.io/posts/git-commit/
 [how to contribute to open source]: https://opensource.guide/how-to-contribute/
 [imperative mood]: https://chris.beams.io/posts/git-commit/#imperative
-[packula community health files]: https://github.com/packula/.github
+[snout community health files]: https://github.com/snout-router/.github

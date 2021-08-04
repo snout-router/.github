@@ -1,6 +1,6 @@
 <!--
 A complete guide to completing the pull request template is available at
-https://github.com/packula/.github/CONTRIBUTING.md.
+https://github.com/snout-router/.github/CONTRIBUTING.md.
 
 Don't forget to include any relevant docs changes, if you feel comfortable doing so :)
 -->

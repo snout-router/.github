@@ -1,6 +1,6 @@
-# Packula community health files
+# Snout community health files
 
-This repo contains the [community health files] for the Packula organization.
+This repo contains the [community health files] for the Snout organization.
 
 <!-- References -->
 
