@@ -1,5 +1,3 @@
-# Snout Router
-
 Welcome to **Snout Router**! 🐽
 
 If you're seeing this, you're... kind of early to the party. Eventually there
