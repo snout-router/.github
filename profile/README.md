@@ -8,7 +8,7 @@ In the mean time, you should take a look at [Snout Router Path], which is fairly
 complete. It should give you some idea of where this project is headed. Thanks
 for stopping by! 👋
 
-- Erin ([@ezzatron])
+\- Erin ([@ezzatron])
 
 <!-- References -->
 
