@@ -3,7 +3,7 @@ on:
   workflow_call:
 jobs:
   ci:
-    name: CI
+    name: CI (website)
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
