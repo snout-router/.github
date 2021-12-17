@@ -1,4 +1,3 @@
-name: Publish release
 on:
   workflow_call:
 jobs:

@@ -1,4 +1,3 @@
-name: CI (website)
 on:
   workflow_call:
 jobs:

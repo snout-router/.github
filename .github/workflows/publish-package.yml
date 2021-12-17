@@ -1,4 +1,3 @@
-name: Publish package
 on:
   workflow_call:
     secrets:
