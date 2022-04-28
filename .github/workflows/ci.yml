@@ -19,7 +19,7 @@ jobs:
       uses: codecov/codecov-action@v3
     - name: Publish dist artifact
       if: github.ref == 'refs/heads/main'
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: dist
         path: artifacts/dist
