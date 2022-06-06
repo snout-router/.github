@@ -35,7 +35,7 @@ request being accepted include:
 This pull request template contains several prompts for information. Each prompt
 is described below along with an example answer.
 
-### Prompt: *What change does this introduce?*
+### Prompt: _What change does this introduce?_
 
 Briefly describe the change you've made in terms of the features or behavior it
 introduces or modifies. This is also a good place to justify your chosen
@@ -57,7 +57,7 @@ approach over other possible solutions.
 
 </details>
 
-### Prompt: *Why make this change?*
+### Prompt: _Why make this change?_
 
 Briefly describe the rationale behind making this change.
 
@@ -71,7 +71,7 @@ Briefly describe the rationale behind making this change.
 
 </details>
 
-### Prompt: *Is there anything you are unsure about?*
+### Prompt: _Is there anything you are unsure about?_
 
 This is a place to ask any specific questions about the changes you've made that
 you'd like to see addressed by the project's maintainers before they begin
@@ -88,7 +88,7 @@ Consider submitting a draft PR if you require feedback about incomplete changes.
 
 </details>
 
-### Prompt: *What issues does this relate to?*
+### Prompt: _What issues does this relate to?_
 
 Link to any GitHub issues that are relevant to these changes. Use the "fixes"
 keyword if you believe an issue to be completely addressed by this PR.

@@ -8,26 +8,26 @@ jobs:
     runs-on: ubuntu-latest
     name: Publish package
     steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '14'
-        registry-url: 'https://registry.npmjs.org'
-    - name: Install dependencies
-      run: make node_modules
-    - name: Make
-      run: make ci
-    - name: Set package version
-      run: make set-package-version
-    - name: Publish package
-      if: success()
-      run: npm publish --access public
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-    - name: Publish dist artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: dist
-        path: artifacts/dist
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "14"
+          registry-url: "https://registry.npmjs.org"
+      - name: Install dependencies
+        run: make node_modules
+      - name: Make
+        run: make ci
+      - name: Set package version
+        run: make set-package-version
+      - name: Publish package
+        if: success()
+        run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Publish dist artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: dist
+          path: artifacts/dist
