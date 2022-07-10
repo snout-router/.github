@@ -13,7 +13,7 @@ jobs:
           node-version: "18"
       - name: Install dependencies
         working-directory: website
-        run: make node_modules
+        run: make link-dependencies
       - name: Build website
         working-directory: website
         run: make release

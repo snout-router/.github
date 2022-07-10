@@ -12,6 +12,6 @@ jobs:
         with:
           node-version: "18"
       - name: Install dependencies
-        run: make node_modules
+        run: make link-dependencies
       - name: Make
         run: make ci
