@@ -10,7 +10,5 @@ for stopping by! 👋
 
 \- Erin ([@ezzatron])
 
-<!-- References -->
-
 [@ezzatron]: https://github.com/ezzatron
 [snout router path]: https://github.com/snout-router/router-path
