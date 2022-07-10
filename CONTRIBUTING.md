@@ -30,6 +30,9 @@ request being accepted include:
 - Similar to commit messages, pull request titles should also use
   [imperative mood]
 
+[good commit messages]: https://chris.beams.io/posts/git-commit/
+[imperative mood]: https://chris.beams.io/posts/git-commit/#imperative
+
 ## Pull request template
 
 This pull request template contains several prompts for information. Each prompt
@@ -109,10 +112,6 @@ keyword if you believe an issue to be completely addressed by this PR.
 - [How to Contribute to Open Source]
 - [About pull requests]
 
-<!-- References -->
-
 [about pull requests]: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
-[good commit messages]: https://chris.beams.io/posts/git-commit/
 [how to contribute to open source]: https://opensource.guide/how-to-contribute/
-[imperative mood]: https://chris.beams.io/posts/git-commit/#imperative
 [snout community health files]: https://github.com/snout-router/.github
